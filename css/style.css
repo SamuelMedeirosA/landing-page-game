@@ -81,6 +81,10 @@ section.main-first > .container{
     flex-wrap: wrap;
 }
 
+.img-topo img{
+    width: 100%;
+}
+
 section.depoimentos{
     padding: 30px 0;
     display: flex;
