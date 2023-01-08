@@ -179,6 +179,10 @@ footer i{
 
 @media screen and (max-width: 768px) {
 
+    
+    .menu a.btn-cta{
+       display:none;
+    }
 
     section.main-first > .container, header .container{
         flex-direction: column;
